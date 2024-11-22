@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'HelloDenverDisplayBold';
+    src: url('fonts/hellodenver/hellodenverdisplaybold_v1.6.woff') format('woff'),
+         url('fonts/hellodenver/hellodenverdisplaybold_v1.6.ttf') format('truetype'),
+         url('fonts/hellodenver/hellodenverdisplaybold_v1.6.eot') format('embedded-opentype'),
+         url('fonts/hellodenver/hellodenverdisplaybold_v1.6.svg#HelloDenverDisplayBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'HelloDenverDisplayRegular';
+    src: url('fonts/hellodenver/hellodenverdisplayregular_v1.6.woff') format('woff'),
+         url('fonts/hellodenver/hellodenverdisplayregular_v1.6.ttf') format('truetype'),
+         url('fonts/hellodenver/hellodenverdisplayregular_v1.6.eot') format('embedded-opentype'),
+         url('fonts/hellodenver/hellodenverdisplayregular_v1.6.svg#HelloDenverDisplayRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
